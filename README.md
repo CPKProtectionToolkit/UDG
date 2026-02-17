@@ -1,4 +1,4 @@
-# udg
+# UDG
 Home of Universal DpFileList Generator
 
 # version
